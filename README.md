@@ -2,6 +2,7 @@
 
 Welcome to the **Smart Sync** MVP! This project was built to revolutionize how volunteer coordination and disaster relief are managed during a crisis.
 
+**🟢 Live Demo (Google Cloud Run):** [https://smart-sync-478138632958.us-central1.run.app](https://smart-sync-478138632958.us-central1.run.app)
 ## 🌟 The Problem
 During disasters, emergency management teams are overwhelmed with unorganized field reports, blurry images, and chaotic audio dispatches. Matching the right volunteers with the right skills to specific emergencies is entirely manual, costing critical response time.
 
